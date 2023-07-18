@@ -1,0 +1,7 @@
+/* quill图片icon */
+.quill-img-icon {
+  cursor: pointer;
+}
+.quill-img-icon:hover {
+  background-color: rgb(185, 214, 244);
+}

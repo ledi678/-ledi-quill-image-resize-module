@@ -3,6 +3,7 @@ import IconAlignCenter from 'quill/assets/icons/align-center.svg';
 import IconAlignRight from 'quill/assets/icons/align-right.svg';
 import IconDelete from './assets/icon/icon-delete.svg';
 import { BaseModule } from './BaseModule';
+// 自定义添加样式
 import "./quill.css";
 
 

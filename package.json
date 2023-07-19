@@ -1,5 +1,5 @@
 {
-  "name": "@ledi/quill-image-resize-module",
+  "name": "ledi-quill-image-resize-module",
   "version": "4.0.0",
   "description": "A module for Quill rich text editor to allow images to be resized.",
   "main": "image-resize.min.js",
@@ -14,9 +14,8 @@
     "type": "git",
     "url": "git+https://github.com/kensnyder/quill-image-resize-module.git"
   },
-	 "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+  "publishConfig": {
+    "@ledi678:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "quill",

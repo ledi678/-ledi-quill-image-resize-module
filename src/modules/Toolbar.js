@@ -1,7 +1,7 @@
-import IconAlignLeft from 'quill/assets/icons/align-left.svg';
-import IconAlignCenter from 'quill/assets/icons/align-center.svg';
-import IconAlignRight from 'quill/assets/icons/align-right.svg';
-import IconDelete from './assets/icon/icon-delete.svg';
+import IconDelete from './assets/icons/icon-delete.svg';
+import IconAlignLeft from './assets/icons/left-alignment.svg';
+import IconAlignRight from './assets/icons/right-alignment.svg';
+import IconAlignCenter from './assets/icons/center-alignment.svg';
 import { BaseModule } from './BaseModule';
 // 自定义添加样式
 import "./quill.css";
